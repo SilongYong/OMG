@@ -1,4 +1,4 @@
-# OMG
+# OMG: Opacity Matters in Material Modeling with Gaussian Splatting
 <p align="center"><img width="740" src="./assets/overview.png"></p>
 
 This repository hosts the code for the paper:
