@@ -36,8 +36,9 @@ cd GaussianShader
 
 ## TODO
 
-[ ] Release GS-IR implementation
-[ ] Release R3DG implementation
+[] Release GS-IR implementation
+
+[] Release R3DG implementation
 
 ## License
 
