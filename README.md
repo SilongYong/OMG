@@ -1,6 +1,5 @@
 # OMG
-===
-<p align="center"><img width="740" src="./assets/overview.jpg"></p>
+<p align="center"><img width="740" src="./assets/overview.png"></p>
 
 This repository hosts the code for the paper:
 
