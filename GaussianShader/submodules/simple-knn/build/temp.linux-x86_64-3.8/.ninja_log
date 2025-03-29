@@ -1,0 +1,4 @@
+# ninja log v5
+1	10756	1720043166926158598	/data/silong/relightanything3d/GaussianShader/submodules/simple-knn/build/temp.linux-x86_64-3.8/simple_knn.o	8e20a342447c58ed
+1	26183	1720043182346072595	/data/silong/relightanything3d/GaussianShader/submodules/simple-knn/build/temp.linux-x86_64-3.8/ext.o	c3711e28961a2aa9
+0	50892	1720043207053934789	/data/silong/relightanything3d/GaussianShader/submodules/simple-knn/build/temp.linux-x86_64-3.8/spatial.o	926f6c4afd53e47c

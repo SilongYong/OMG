@@ -1,0 +1,6 @@
+GaussianShader/data
+GaussianShader/output
+GaussianShader/gaussian_renderer/__pycache__
+GaussianShader/lpipsPyTorch/__pycache__
+GaussianShader/scene/__pycache__
+GaussianShader/utils/__pycache__
